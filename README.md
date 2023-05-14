@@ -1,4 +1,4 @@
-# React Lights Out
+# Hello World Example
 
 Hello world - initial project in react js
 
