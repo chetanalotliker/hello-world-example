@@ -2,7 +2,7 @@
 
 Hello world - initial project in react js
 
-See demo: https://chetanalotliker.github.io/hello-world-example
+See demo: https://chetanalotliker.github.io/hello-world-example/
 
 # Getting Started with Create React App
 
